@@ -1,0 +1,1 @@
+This bug occurs when using the Expo CLI to build an Android APK.  The build process fails with an error message indicating that the Android SDK build tools are not found or are incompatible. This can be caused by several factors, such as an incorrect or outdated Android SDK installation, or conflicting versions of build tools.
